@@ -99,7 +99,7 @@
 
 
  ## 📊 Github Profile Stats
-<p>
+<p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adyhatem65&show_icons=true&locale=en&layout=compact" alt="adyhatem65" />
 
   <br>
