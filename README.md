@@ -19,7 +19,9 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HXKRIs6eKlUow46Z2xtm_wwsNJ2976AN/view?usp=sharing)
 
+
 <br>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
@@ -31,6 +33,7 @@
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adyhatem65&theme=algolia" /></p>
+
 
 <br>
 
@@ -91,6 +94,11 @@
   </a>
  </p>
 
+
+<br>
+
+
+ ## 📊 Github Profile Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adyhatem65&show_icons=true&locale=en&layout=compact" alt="adyhatem65" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adyhatem65&show_icons=true&locale=en" alt="adyhatem65" /></p>
