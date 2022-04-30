@@ -98,15 +98,21 @@
 <br>
 
 
- ## 📊 Github Profile Stats
+## 📊 Github Profile Stats
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adyhatem65&show_icons=true&locale=en&theme=algolia" alt="adyhatem65" />
- 
-  <br/>
-	
-  &nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adyhatem65&show_icons=true&locale=en&layout=compact&theme=algolia"     alt="adyhatem65" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adyhatem65&show_icons=true&locale=en&layout=compact&theme=algolia" alt="adyhatem65" />
+	<br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adyhatem65&show_icons=true&locale=en&theme=algolia" alt="adyhatem65" />
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adyhatem65" alt="adyhatem65" /></a> </p>
+
+<br>
+
+
+ ## 🏆 Github Trophy
+<p align="center"> 
+	<a href="https://github.com/ryo-ma/github-profile-trophy">
+		<img src="https://github-profile-trophy.vercel.app/?username=adyhatem65&layout=compact&theme=algolia" alt="adyhatem65" />
+	</a> 
+</p>
 
