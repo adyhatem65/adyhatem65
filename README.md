@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Software Engineer | React Native Developer</h3>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=adyhatem65&label=Profile%20views&color=0e75b6&style=flat" alt="adyhatem65" />
-    <img src="https://badges.pufler.dev/repos/adyhatem65" alt="adyhatem65" />
-		<img src="https://img.shields.io/github/followers/adyhatem65?label=Followers" alt="adyhatem65" />
+    	<img src="https://komarev.com/ghpvc/?username=adyhatem65&label=Profile%20views&color=0e75b6&style=flat" alt="adyhatem65" />
+    	<img src="https://badges.pufler.dev/repos/adyhatem65" alt="adyhatem65" />
+	<img src="https://img.shields.io/github/followers/adyhatem65?label=Followers" alt="adyhatem65" />
 </p>
 
 - 🔭 I’m currently working on **Meeting App using RN**
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **adyetman65@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HXKRIs6eKlUow46Z2xtm_wwsNJ2976AN/view?usp=sharing](https://drive.google.com/file/d/1HXKRIs6eKlUow46Z2xtm_wwsNJ2976AN/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HXKRIs6eKlUow46Z2xtm_wwsNJ2976AN/view?usp=sharing)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adyhatem65" alt="adyhatem65" /></a> </p>
 
