@@ -100,11 +100,12 @@
 
  ## 📊 Github Profile Stats
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adyhatem65&show_icons=true&locale=en&layout=compact" alt="adyhatem65" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adyhatem65&show_icons=true&locale=en&layout=compact&theme=algolia" alt="adyhatem65" />
 
-  <br>
+  <br/>
 	
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adyhatem65&show_icons=true&locale=en" alt="adyhatem65" />
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adyhatem65&show_icons=true&locale=en&theme=algolia" alt="adyhatem65" />
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adyhatem65" alt="adyhatem65" /></a> </p>
