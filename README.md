@@ -53,7 +53,7 @@
   </a>
   &emsp;
   <a href="https://www.typescriptlang.org" target="_blank"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?style=plastic&logo=typescript&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/TypeScript-blue?style=plastic&logo=typescript&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.python.org" target="_blank">
