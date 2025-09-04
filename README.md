@@ -7,9 +7,9 @@
 	<img src="https://img.shields.io/github/followers/adyhatem65?label=Followers" alt="adyhatem65" />
 </p>
 
-- 🔭 I’m currently working on [**Waqfa App Using React Native**](https://waqfaapp.com/en)
+- 🔭 I’m currently working on **Raneen Apps** [**Android**](https://play.google.com/store/apps/details?id=com.raneen.mobapp) | [**IOS**](https://apps.apple.com/eg/app/raneen-shop-for-your-home/id1595916027) built with **React Native**
 
-- 🌱 I’m currently learning **English, react-native, software engineering**
+- 🌱 I’m currently learning **English, react-native, Flutter, Figma, software engineering**
 
 - 👯‍♂️ I’m looking to collaborate on **react-native projects**
 
