@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **adyetman65@gmail.com**
 
-- 📄 Know about my experiences [**My Resume**](https://drive.google.com/file/d/1mBuwVSywHwmcYGEpN1rUwBW0o8TFynGn/view?usp=drivesdk)
+- 📄 Know about my experiences [**My Resume**](https://drive.google.com/file/d/1yReIhW71nnz1hZpSbL3j4rCtjrRQ2h7g/view?usp=sharing)
 
 
 <br>
